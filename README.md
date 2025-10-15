@@ -3,3 +3,7 @@
 <h3 align="center">680710138 ภาคิน นงค์ทอง</h3>
 
 <h3 align="center">ลองใช้งาน github</h4>
+
+## <h3 align="center">ภาษา C</h3>
+
+## <h3 align="center">ภาษา Java</h3>
